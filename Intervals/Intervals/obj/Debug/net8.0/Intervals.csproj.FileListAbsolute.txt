@@ -1,0 +1,14 @@
+C:\Users\ми\source\repos\Intervals\Intervals\bin\Debug\net8.0\Intervals.exe
+C:\Users\ми\source\repos\Intervals\Intervals\bin\Debug\net8.0\Intervals.deps.json
+C:\Users\ми\source\repos\Intervals\Intervals\bin\Debug\net8.0\Intervals.runtimeconfig.json
+C:\Users\ми\source\repos\Intervals\Intervals\bin\Debug\net8.0\Intervals.dll
+C:\Users\ми\source\repos\Intervals\Intervals\bin\Debug\net8.0\Intervals.pdb
+C:\Users\ми\source\repos\Intervals\Intervals\obj\Debug\net8.0\Intervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ми\source\repos\Intervals\Intervals\obj\Debug\net8.0\Intervals.AssemblyInfoInputs.cache
+C:\Users\ми\source\repos\Intervals\Intervals\obj\Debug\net8.0\Intervals.AssemblyInfo.cs
+C:\Users\ми\source\repos\Intervals\Intervals\obj\Debug\net8.0\Intervals.csproj.CoreCompileInputs.cache
+C:\Users\ми\source\repos\Intervals\Intervals\obj\Debug\net8.0\Intervals.dll
+C:\Users\ми\source\repos\Intervals\Intervals\obj\Debug\net8.0\refint\Intervals.dll
+C:\Users\ми\source\repos\Intervals\Intervals\obj\Debug\net8.0\Intervals.pdb
+C:\Users\ми\source\repos\Intervals\Intervals\obj\Debug\net8.0\Intervals.genruntimeconfig.cache
+C:\Users\ми\source\repos\Intervals\Intervals\obj\Debug\net8.0\ref\Intervals.dll
